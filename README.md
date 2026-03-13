@@ -291,7 +291,7 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detall
 
 **¿Preguntas? ¿Feedback?**
 
-[📧 Email]angelnerozzioffice@gmail.com · [🐙 GitHub](https://github.com/TheAngelNerozzi
+📧 Email - angelnerozzioffice@gmail.com · 🐙 GitHub - https://github.com/TheAngelNerozzi
 
 ---
 
