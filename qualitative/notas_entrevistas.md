@@ -181,7 +181,7 @@ no entendían cómo canjear sus puntos. La app era confusa y Luisa no podía exp
 > Les decía 'mire, aquí dice que tiene X puntos' pero ni yo entendía cómo funcionaba."
 
 ### Momento crítico
-Una cliente acumuló $80 en puntos y quiso canjearlos. Luisa intentó帮助la pero el sistema 
+Una cliente acumuló $80 en puntos y quiso canjearlos. Luisa le intentó ayudar pero el sistema 
 mostraba mensajes de error sin explicación. Llamó a soporte 4 veces en 2 semanas sin respuesta. 
 La cliente se enojó y se fue. Luisa canceló el servicio esa semana.
 
@@ -232,6 +232,6 @@ preexistente.
 ---
 
 **Versión:** 1.0  
-**Fecha de recolección:** Enero 2024  
+**Fecha de recolección:** Enero 2026  
 **Proyecto:** Churn Mercados Emergentes - Cashea Portfolio  
-**Nota:** Nombres y ubicaciones modificados para proteger identidad de participantes
+**Nota:** Nombres y ubicaciones modificados para proteger identidad de participantes por petición de ellos.
