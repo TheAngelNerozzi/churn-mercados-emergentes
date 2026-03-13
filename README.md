@@ -261,7 +261,7 @@ jupyter notebook
 
 ## 👤 Sobre el Autor
 
-Este proyecto fue desarrollado por Angel Nerozzi como portfolio para aplicar al rol de **Product Researcher** 
+Este proyecto fue desarrollado por Angel Nerozzi como portfolio para aplicar al rol de **Research Senior** 
 en **Cashea**, una fintech venezolana. Demuestra competencias en:
 
 - Análisis de datos con Python
