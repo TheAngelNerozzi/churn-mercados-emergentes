@@ -13,7 +13,7 @@ en comercios pequeños y medianos de Venezuela para comprender la dimensión cua
 ## APERTURA (5 minutos)
 
 **Presentación del investigador:**
-> "Hola, gracias por participar en este estudio. Soy [nombre], investigador de producto. 
+> "Hola, gracias por participar en este estudio. Soy Angel Nerozzi, investigador de producto. 
 > Estoy estudiando por qué los comercios abandonan herramientas digitales que 
 > inicialmente adoptaron con entusiasmo. Tu perspectiva es muy valiosa porque 
 > viviste esa experiencia de primera mano."
@@ -50,7 +50,7 @@ Cuéntame la historia completa: desde que empezaste a usarla hasta que decidiste
 **Pregunta 5:** En el momento de tomar la decisión, ¿qué fue lo que más pesó 
 para abandonar la herramienta?
 
-*Opciones de probing (usar según respuesta):*
+Posibles: 
 - ¿Fue por el costo? ¿Por funcionalidad? ¿Por algo más?
 - ¿Cómo te sentiste en ese momento?
 - ¿Consultaste con alguien más antes de decidir?
@@ -91,13 +91,13 @@ no hayamos tocado?
 > Tus insights son muy valiosos para entender mejor qué pueden hacer las empresas 
 > para mejorar la experiencia de comercios como el tuyo."
 
-**Incentivo (si aplica):**
+**Incentivo:**
 > "Como agradecimiento, te enviaremos un resumen de los hallazgos del estudio 
 > que pueden ser útiles para tu negocio."
 
 ---
 
-## NOTAS PARA EL ENTREVISTADOR
+## NOTAS DE USO PARA UN INVESTIGADOR QUE USE EL REPOSITORIO COMO BASE.
 
 ### Señales de atención:
 - Menciones de "opacidad" o "no me explicaron"
@@ -119,8 +119,10 @@ no hayamos tocado?
 - Interpretar antes de que termine de hablar
 - Cambiar de tema abruptamente
 
+- ### ESAS NOTAS SON IMPORTANTES SI USAS ESTE REPOSTORIO COMO BASE PARA TU PROYECTO.
+
 ---
 
 **Versión:** 1.0  
 **Fecha:** 2024  
-**Proyecto:** Churn Mercados Emergentes - Cashea Portfolio
+**Proyecto:** Churn Mercados Emergentes - Cashea Portfolio - Angel Nerozzi
