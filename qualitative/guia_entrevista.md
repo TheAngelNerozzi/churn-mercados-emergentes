@@ -124,5 +124,5 @@ no hayamos tocado?
 ---
 
 **Versión:** 1.0  
-**Fecha:** 2024  
+**Fecha:** 2026  
 **Proyecto:** Churn Mercados Emergentes - Cashea Portfolio - Angel Nerozzi
