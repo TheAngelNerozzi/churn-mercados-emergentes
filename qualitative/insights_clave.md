@@ -258,4 +258,4 @@ confianza antes de que se erosione.**
 **Versión:** 1.0  
 **Fecha:** 2024  
 **Proyecto:** Churn Mercados Emergentes - Cashea Portfolio  
-**Autor:** [Tu nombre]
+**Autor:** Angel Nerozzi
