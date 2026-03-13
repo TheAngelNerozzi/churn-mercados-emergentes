@@ -261,7 +261,7 @@ jupyter notebook
 
 ## 👤 Sobre el Autor
 
-Este proyecto fue desarrollado como portfolio para aplicar al rol de **Product Researcher** 
+Este proyecto fue desarrollado por Angel Nerozzi como portfolio para aplicar al rol de **Product Researcher** 
 en **Cashea**, una fintech venezolana. Demuestra competencias en:
 
 - Análisis de datos con Python
@@ -281,7 +281,7 @@ Este proyecto está bajo la Licencia MIT. Ver archivo `LICENSE` para más detall
 ## 📚 Referencias
 
 - IBM Telco Customer Churn Dataset: [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
-- Kaplan, E. L., & Meier, P. (1958). Nonparametric estimation from incomplete observations
+- Kaplan, E. L., & Meier, P. (1958 - Stanford University). Nonparametric estimation from incomplete observations
 - Christensen, R. H. B. (2023). lifelines: Survival analysis in Python
 - Lundberg, S. M., & Lee, S. I. (2017). A unified approach to interpreting model predictions
 
